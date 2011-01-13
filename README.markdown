@@ -1,4 +1,5 @@
-== Simple MIMO simulations
+Simple MIMO simulations
+-----------------------
 
 Assumes QPSK, ML decoding (except SM ZF detector).
 
@@ -10,7 +11,8 @@ Assumes QPSK, ML decoding (except SM ZF detector).
 
 * sm.m - Spatial multiplexing 2x2 (both ML decoding and suboptimal zero forcing)
 
-== Simple OFDM simulation
+Simple OFDM simulation
+----------------------
 
 Simulates guard band, cylic prefix
 Preamble symbol used for channel estimation
